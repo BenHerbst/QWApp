@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=QWApp
+Comment=Modern and simple WhatsApp Wrapper
+Exec=qwapp %u
+Icon=com._404coding.qwapp
+Type=Application
+StartupWMClass=qwapp
+Categories=Network;InstantMessaging;Chat;Qt;
+Keywords=WhatsApp;Messenger;Chat;Web;BenHerbst;404Coding;
+Terminal=false
+MimeType=x-scheme-handler/whatsapp;

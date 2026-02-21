@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80mm"
+   height="80mm"
+   viewBox="0 0 80 80"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="QWApp.svg"
+   inkscape:export-filename="QWApp.png"
+   inkscape:export-xdpi="162.56"
+   inkscape:export-ydpi="162.56"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     inkscape:zoom="0.68259796"
+     inkscape:cx="319.36808"
+     inkscape:cy="211.69123"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#005700;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#43ff86;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(-50.983971,67.971726,113.49834)"
+       x1="74.477188"
+       y1="51.811115"
+       x2="149.47719"
+       y2="51.811115" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9"
+       transform="translate(-7.6680387,-0.47299632)">
+      <path
+         id="path1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5.33333"
+         d="M 85.07904,40.472988 A 37.333329,37.333329 0 0 1 47.7457,77.806317 37.333329,37.333329 0 0 1 10.41238,40.472988 37.333329,37.333329 0 0 1 47.7457,3.1396614 37.333329,37.333329 0 0 1 85.07904,40.472988 Z" />
+      <path
+         id="path5"
+         style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;stroke-width:1.364;enable-background:accumulate;stop-color:#000000"
+         d="m 18.53147,53.095418 c -0.922955,1.665046 -2.061473,3.744224 -3.251065,5.977511 -2.853653,5.357294 -5.978259,11.459096 -7.300023,15.440671 -0.261275,0.787068 -0.427231,1.655205 -0.216606,2.646505 0.210637,0.991312 0.949293,1.98765 1.764313,2.484318 1.630036,0.99335 3.021443,0.77626 4.460156,0.5602 2.877438,-0.432135 6.295678,-1.711511 9.844348,-3.20845 4.51182,-1.903228 9.109524,-4.192541 11.860247,-5.608033 l -3.951187,-4.211667 c -2.182031,1.152355 -5.423113,2.848872 -10.029012,4.791809 -3.06483,1.292834 -5.85729,2.190602 -7.753325,2.57953 1.2945,-3.298849 3.651038,-8.243298 6.136122,-12.908675 1.121197,-2.104898 1.789481,-3.313172 2.371787,-4.348503 z" />
+      <path
+         id="path4"
+         style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#005700;enable-background:accumulate;stop-color:#000000"
+         d="m 20.810047,58.270333 c -2.325987,4.216341 -6.118155,11.31481 -7.275248,14.800314 -1.527586,4.601561 11.52144,-1.652059 16.994106,-4.440746 z" />
+      <path
+         id="path1-2"
+         style="fill:url(#linearGradient9);stroke:none;stroke-width:5;stroke-opacity:1"
+         d="M 69.77953,13.279044 A 35,35 0 0 1 74.93965,62.506812 35,35 0 0 1 25.71189,67.666935 35,35 0 0 1 20.551768,18.43917 35,35 0 0 1 69.77953,13.279044 Z" />
+      <text
+         xml:space="preserve"
+         style="font-size:30.7382px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:48.4067;stroke-dasharray:none;stroke-opacity:1"
+         x="19.674759"
+         y="52.196007"
+         id="text2"
+         transform="scale(1.0311481,0.9697928)"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:48.4067"
+           x="19.674759"
+           y="52.196007">QW</tspan></text>
+    </g>
+  </g>
+</svg>

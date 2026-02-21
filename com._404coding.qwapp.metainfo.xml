@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Copyright 2026 Ben Herbst (404Coding) -->
+
+<component type="desktop-application">
+    <id>com._404coding.qwapp</id>
+
+    <name>QWApp</name>
+    <summary>Modern and simple WhatsApp Wrapper</summary>
+
+    <developer id="com._404coding">
+        <name>404Coding</name>
+        <url>https://404coding.com</url>
+    </developer>
+
+    <developer id="net.benherbst">
+        <name>Ben Herbst</name>
+        <url>https://benherbst.net</url>
+    </developer>
+
+    <description>
+        <p>A Linux WhatsApp Web Wrapper built using the Qt-Framework.</p>
+        <p>I built QWApp as I wanted a simple, reliable and extremely robust client App for WhatsApp Web, featuring a TrayIcon, Autostart, Native Desktop Notifications and additional features.</p>
+        <p>Data security:</p>
+        <p>No modifications are made to WhatsApp Web and the source code is publicly available on GitHub.</p>
+    </description>
+
+    <screenshots>
+        <screenshot type="default">
+            <image></image>
+        </screenshot>
+    </screenshots>
+
+    <launchable type="desktop-id">com._404coding.qwapp.desktop</launchable>
+    <url type="homepage">https://404coding.com</url>
+    <url type="bugtracker">https://github.com/404coding/qwapp/issues</url>
+
+    <metadata_license>CC0-1.0</metadata_license>
+    <project_license>Apache 2.0</project_license>
+</component>
