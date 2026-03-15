@@ -1,5 +1,7 @@
 # QWApp - WhatsApp Web on Linux
 
+![Light Mode Screenshot](https://github.com/BenHerbst/QWApp/blob/master/screenshots/Screenshot_20260315_172431.png)
+
 ## 🧲 About
 QWApp wraps the WhatsApp Web Application into a Linux desktop app. It supports features like a system tray and notifications. Built using Qt6 and Qt6-WebEngine, the main goal is stability and robust usage for every day.
 
@@ -19,6 +21,22 @@ QWApp uses C++ and Qt6 together with the Qt6-Webengine to render WhatsApp Web.
 
 Built with CMake and CPack, DBus for native notifications.
 
+## 🖥️ Screenshots
+Light Mode:
+
+![Light Mode Screenshot](https://github.com/BenHerbst/QWApp/blob/master/screenshots/Screenshot_20260315_172431.png)
+
+Dark Mode:
+
+![Dark Mode Screenshot](https://github.com/BenHerbst/QWApp/blob/master/screenshots/Screenshot_20260315_172724.png)
+
+Settings:
+
+![Settings Screenshot](https://github.com/BenHerbst/QWApp/blob/master/screenshots/Screenshot_20260315_172830.png)
+
+Tray-Icon:
+
+![Tray-Icon Screenshot](https://github.com/BenHerbst/QWApp/blob/master/screenshots/Screenshot_20260315_184047.png)
 
 ## 📜 License 
 This project is licensed under the Apache-2.0 License.
